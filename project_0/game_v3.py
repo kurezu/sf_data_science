@@ -20,6 +20,9 @@ def random_predict(number: int = 1) -> int:
         predict_number = array[round(len(array)/2)] # угадываем число из середины списка возможных вариантов
         count += 1 # счетчик количества попыток
         
+        if count > 20:
+            break # выход из цикла в случае перебора попыток
+        
         if number == predict_number:
             break # выход из цикла если угадали
         elif number > predict_number:
@@ -40,7 +43,7 @@ def score_game(random_predict) -> int:
         int: среднее количество попыток
     """
     count_ls = []
-    #np.random.seed(1)  # фиксируем сид для воспроизводимости
+    np.random.seed(1)  # фиксируем сид для воспроизводимости
     random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
 
     for number in random_array:
