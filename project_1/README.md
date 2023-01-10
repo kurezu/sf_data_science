@@ -39,9 +39,9 @@
 ### Краткая информация о данных
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
-- Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+- Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1MQVsB-wYh_cQjyPKRuU4tapnsKtQnFxf/view?usp=share_link).
 
-- Файл с выгрузкой курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: скачать можно [здесь](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip).
+- Файл с выгрузкой курсов валют, которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019: скачать можно [здесь](https://drive.google.com/file/d/1A6FKBC8m1KyvahXDrQEpW6lFlJHp1h5l/view?usp=share_link).
 
 :arrow_up:[к оглавлению](/project_1/README.md#Оглавление)
 
