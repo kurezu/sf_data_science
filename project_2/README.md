@@ -41,7 +41,7 @@
 ### Краткая информация о данных
 В нашем распоряжении будет база данных:
 
-<img src="https://github.com/kurezu/sf_data_science/tree/main/project_2/img/SQL_pj2_2_1.png" alt="Image alt" style="max-width: 100%;">
+<img src="https://github.com/kurezu/sf_data_science/blob/main/project_2/img/SQL_pj2_2_1.png?raw=true" alt="Image alt" style="max-width: 60%;">
 
 :arrow_up:[к оглавлению](/project_2/README.md#Оглавление)
 
